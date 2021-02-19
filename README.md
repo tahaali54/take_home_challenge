@@ -1,17 +1,19 @@
 # Step-up Flutter - Take home challenge
 
-Recreating designs, UI mockup or just ideas is first responsibility of any mobile application developer.
+Recreating designs, UI mockups or just ideas is first responsibility of any mobile application developer.
 This challenge requires you recreate the given designs in a Flutter app. 
 
 ## Instructions
 
-This project is a starting point for a Flutter application.
+- In the given folder named "screens" you will find 30 screenshots of different mobile applications. 
+- You have to select any 2 from these.
+- You will then create a Flutter app in which you will recreate UI of these 2 selected screens.
+- Host your code on GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## Submission
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Submit your work here](https://forms.gle/dUn6aC4qVhZ9mtrh6)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Presentation Slides
+
+- [Slides deck shown live in event](https://docs.google.com/presentation/d/1Elm8_dX5vf4ndw8IR3E2yJMWkJZaJdl275eJoqmp2eE/edit?usp=sharing)
