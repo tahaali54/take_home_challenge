@@ -1,8 +1,9 @@
-# take_home_challenge
+# Step-up Flutter - Take home challenge
 
-A new Flutter project.
+Recreating designs, UI mockup or just ideas is first responsibility of any mobile application developer.
+This challenge requires you recreate the given designs in a Flutter app. 
 
-## Getting Started
+## Instructions
 
 This project is a starting point for a Flutter application.
 
