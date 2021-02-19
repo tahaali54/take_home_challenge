@@ -13,6 +13,8 @@ This challenge requires you recreate the given designs in a Flutter app.
 ## Submission
 
 - [Submit your work here](https://forms.gle/dUn6aC4qVhZ9mtrh6)
+</br>
+Deadline: 27-Feb-2021 [Saturday]
 
 ## Presentation Slides
 
