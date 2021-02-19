@@ -10,6 +10,16 @@ This challenge requires you recreate the given designs in a Flutter app.
 - You will then create a Flutter app in which you will recreate UI of these 2 selected screens.
 - Host your code on GitHub
 
+## Judging Criteria
+
+- Eye for detail
+- Accuracy
+- Complexity
+- Code structure
+- Reusable widgets
+- Responsiveness
+
+
 ## Submission
 
 - [Submit your work here](https://forms.gle/dUn6aC4qVhZ9mtrh6)
